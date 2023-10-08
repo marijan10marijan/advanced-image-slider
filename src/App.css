@@ -1,0 +1,7 @@
+.wrapper{
+  width: min(860px,95%);
+  min-height: 100vh;
+  margin-inline: auto;
+  display: grid;
+  place-content: center;
+}
