@@ -18,7 +18,7 @@ A responsive and accessible image slider built with React, Vite, and React Icons
    git clone https://github.com/your-username/your-image-slider.git
   
 
-### Usage
+## Usage
   - To use this image slider component in your own project, follow these steps:
   - Copy the ImageSlider.js component from this project into your own React project.
   - Import the ImageSlider component where you want to use it.
